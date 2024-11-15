@@ -45,7 +45,10 @@ export default function JustArrived() {
                             Cangkir Mauttie
                         </h5>
                         <span className="">IDR 89.300</span>
-                        <Link to="/details" className="stretched-link"></Link>
+                        <Link
+                            to="/categories/991"
+                            className="stretched-link"
+                        ></Link>
                     </div>
 
                     <div className="px-4 relative card group">
